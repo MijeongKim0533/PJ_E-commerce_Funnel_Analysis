@@ -13,8 +13,8 @@ a.  현황 분석<br>
 
   신규가입자 수와 매출이 상승하고 있지만 결제까지 이어지지 않은 고객 상승, 유입 대비 매출층가율 소폭 하락<br>
 
-  <p align="center"><img width="359" alt="image" src="https://github.com/MijeongKim0533/PJ_Funnel_Analysis/assets/152786534/7f403ec5-5537-4374-a821-9aea2180c450">
-  <img width="329" alt="image" src="https://github.com/MijeongKim0533/PJ_Funnel_Analysis/assets/152786534/7ede7dee-1123-4138-9357-816d9bebf9ed"></p>  
+  <p align="center"><img width="359" alt="image" src="https://github.com/MijeongKim0533/PJ_Funnel_Analysis/assets/152786534/6e687522-8607-484b-a6b5-0a3b2b34de25">
+  <img width="329" alt="image" src="https://github.com/MijeongKim0533/PJ_Funnel_Analysis/assets/152786534/f62ce03f-1f3d-49f2-b821-2a584babbc32"></p>  
 
 <br>
 
@@ -34,24 +34,24 @@ b.  메인 결제퍼널 정의<br>
     funnel_type='closed')
   ```
 
-  <p align="center"><img src="https://github.com/MijeongKim0533/PJ_Funnel_Analysis/assets/152786534/9efef1f3-fe7f-4562-93a9-a7236ac3afe0" width="600" height="360"> </p><br>
+  <p align="center"><img src="https://github.com/MijeongKim0533/PJ_Funnel_Analysis/assets/152786534/8abe0ec4-a1e7-4b20-b0ad-40ed4bb06d47" width="600" height="360"> </p><br>
 
 
 c. 단계별 전환율 분석<br>
 
 ITEM_DETAIL -> ADD_TO_CART로의 전환율이 가장 낮음
 
-<p align="center"> <img width="500" alt="image" src="https://github.com/MijeongKim0533/PJ_Funnel_Analysis/assets/152786534/e1e30a1f-3170-492d-aa92-62d3bd406056"></p>
+<p align="center"><img width="500" alt="image" src="https://github.com/MijeongKim0533/PJ_Funnel_Analysis/assets/152786534/6507989f-6576-431a-bfc6-50f925862425"></p>
 
 d. 시즌별 분석<br>
 
 메인 퍼널에만 초점을 맞춘 상품 상세페이지의 개선은 트렌드 파악이 어려워 개선에 한계가 있어 각 시즌 퍼널에 대한 전환율 추이 분석
 
 <p align="center">
-  <img width="574" alt="image" src="https://github.com/MijeongKim0533/PJ_Funnel_Analysis/assets/152786534/d0567b58-ebc4-4b4f-8d04-2d1456b71c05">
+  <img width="574" alt="image" src="https://github.com/MijeongKim0533/PJ_Funnel_Analysis/assets/152786534/1b581863-84f6-445f-ae8d-bcf8216b363f">
 </p>
 <p align="center"><개선이 필요한 퍼널></p>
-<p align="center"> <img width="243" alt="image" src="https://github.com/MijeongKim0533/PJ_Funnel_Analysis/assets/152786534/1cc9186a-2be8-4631-ba16-e485682b319b"></p>
+<p align="center"><img width="243" alt="image" src="https://github.com/MijeongKim0533/PJ_Funnel_Analysis/assets/152786534/f3cc668b-2e56-4497-bfd6-5d6a703b08da"></p>
 
 e. 결과
 
@@ -69,5 +69,5 @@ e. 결과
   혜택을 상단에 노출하여 구매욕구 향상<br> 
 
 <p align="center"><예시>
-<p align="center"><img width="150" height='300' alt="image" src="https://github.com/MijeongKim0533/PJ_Funnel_Analysis/assets/152786534/03ac914f-d12b-43b6-8e26-9f70d8fc6c48">
-<img width="140" height='300' alt="image" src="https://github.com/MijeongKim0533/PJ_Funnel_Analysis/assets/152786534/711473cb-70b4-464f-94c7-75e8b4b6488a"></p>
+<p align="center"><img width="150" height='300' alt="image" src="https://github.com/MijeongKim0533/PJ_Funnel_Analysis/assets/152786534/8457da53-2217-471d-994a-5f456d4cc634">
+<img width="140" height='300' alt="image" src="https://github.com/MijeongKim0533/PJ_Funnel_Analysis/assets/152786534/a900f37c-f949-423b-862d-e61a59a4be54""></p>
