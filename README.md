@@ -1,5 +1,4 @@
-# PJ_Funnel_Analysis
-Analysis of fashion E-commerce's payment funnel
+# 패션 이커머스 결제퍼널 개선 프로젝트
 
 ## 1. 프젝트 주제
  - 패션 이커머스 결제퍼널 개선
